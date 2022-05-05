@@ -1,5 +1,8 @@
 ## Hi there 👋
+![GDSC MY LOGO Center](https://user-images.githubusercontent.com/104991441/166931258-b276b6b0-fcef-4969-83db-1bac912af73e.png)
 
+## This is Google Developer Student Club Malaysia Chapter 
+## Feel free to contact us for any opportunities: https://linktr.ee/dsc.malaysia 
 <!--
 
 **Here are some ideas to get you started:**
